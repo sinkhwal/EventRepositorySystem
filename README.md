@@ -1,4 +1,4 @@
-# Even Repository System
+# Event Repository System
 This is simple system to create event and keep it in central repository in mysql db. User from different organization can create event and keep record of their event in this system, these event can be viewed by all other users. 
 
 ### Workflow
